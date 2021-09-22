@@ -6,7 +6,7 @@
 
 Data analysis using the College Scoreboard data set.
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zachmort/College-Scorecard-Datainclude_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zachmort/College-Scorecard-Data)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zachmort/College-Scorecard-Data)
 ![GitHub issues](https://img.shields.io/github/issues-raw/zachmort/College-Scorecard-Data)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/zachmort/College-Scorecard-Data)
